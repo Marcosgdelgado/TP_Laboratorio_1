@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1523650403 source:c:\users\marcos\downloads\programacion1y-laboratorio1-master\programacion1y-laboratorio1-master\tp_1_cascara\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1457052376 c:\users\marcos\downloads\programacion1y-laboratorio1-master\programacion1y-laboratorio1-master\tp_1_cascara\tp_1_cascara\funciones.h
+
+1523650408 source:c:\users\marcos\downloads\programacion1y-laboratorio1-master\programacion1y-laboratorio1-master\tp_1_cascara\tp_1_cascara\libreria.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1523667101 source:c:\users\alumno\downloads\programacion_1_laboratorio_1-master\libreria.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1523664818 c:\users\alumno\downloads\programacion_1_laboratorio_1-master\funciones.h
+
+1523667103 source:c:\users\alumno\downloads\programacion_1_laboratorio_1-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
